@@ -1,6 +1,13 @@
 header {
-    background: #fff url('../images/logo.png') 20px center no-repeat center;
+    background: #fff;
     border-bottom: 1px solid #ccc;
     height: 70px;
     width: 100%;
+}
+
+.logo {
+    width: 142px;
+    height 60px;
+    background url("../images/logo.png") no-repeat center;
+    margin: 20px;
 }
