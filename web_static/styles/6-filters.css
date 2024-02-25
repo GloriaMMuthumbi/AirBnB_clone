@@ -60,6 +60,13 @@
     margin: 0;
 }
 
+.locations,
+.amenities {
+    height: 100%;
+    width: 25%;
+    position: relative;
+}
+
 .popover {
     display: none;
     position: absolute;
