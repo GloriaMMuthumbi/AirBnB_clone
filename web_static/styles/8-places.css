@@ -60,7 +60,10 @@
 .number_rooms,
 .number_bathrooms {
     width: 100px;
-    text-align: center;
+    display: flex;
+    height: inherit;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .user {
@@ -88,6 +91,5 @@
     height: inherit;
     width: inherit;
     background: url("../images/icon_group.png");
-    background-repeat: no-repeat;
-    margin-left: 35px;
+    background-repeat: no-repeat; 
 }
