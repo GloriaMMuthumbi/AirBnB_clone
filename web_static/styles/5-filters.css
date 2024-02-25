@@ -43,14 +43,14 @@
     float: left;
 }
 
-h3 {
+.filters h3 {
     font-weight: 600;
     padding: 0px;
     margin-top: 17px;
     margin: 0px;
 }
 
-h4 {
+.filters h4 {
     font-weight: 400;
     padding: 0px;
     margin-top: 14px;
