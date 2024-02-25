@@ -19,6 +19,7 @@
     height: 48px;
     width: 20%;
     margin-right: 30px;
+    float: right;
 }
 
 .filters button:hover {
