@@ -9,6 +9,14 @@
     margin: 0;
 }
 
+.places div {
+    display: flex;
+    width: 100%;
+    justify-content: sspace-between;
+    flex-wrap; wrap;
+    flex-direction: row;
+}
+
 .places article {
     width: 390px;
     padding: 20px;
