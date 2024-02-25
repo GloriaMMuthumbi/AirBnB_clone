@@ -89,7 +89,7 @@
 }
 
 .guests_icon {
-    height: inherit;
-    width: inherit;
+    height: 100px;
+    width: 100px;
     background: url("../images/icon_group.png") no-repeat; 
 }
