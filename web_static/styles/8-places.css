@@ -82,3 +82,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.guests_icon {
+    height: inherit;
+    width: inherit;
+    background: url("../images/icon_group.png");
+    background-repear: no-repeat;
+    margin-left: 35px;
+}
