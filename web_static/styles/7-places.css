@@ -12,7 +12,8 @@
 .places div {
     display: flex;
     width: 100%;
-    justify-content: sspace-between;
+    align-items: center;
+    justify-content: space-between;
     flex-wrap; wrap;
     flex-direction: row;
 }
