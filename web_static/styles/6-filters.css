@@ -70,7 +70,8 @@
 .popover {
     display: none;
     position: absolute;
-    top: 70%;
+    top: 75%;
+    width: 100%;
     z-index: 1;
     margin-top: 7%;
     background-color: #fafafa;
