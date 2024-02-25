@@ -73,8 +73,8 @@
     top: 75%;
     width: 100%;
     left: 0;
-    z-index: 1;
-    margin-top: 7%;
+    margin: 0;
+    z-index: 1;    
     background-color: #fafafa;
     border: 1px solid #ddd;
     border-radius: 4px;
